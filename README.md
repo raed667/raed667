@@ -9,5 +9,5 @@ Writing code since 2008 - professionally since 2016.
 ---
 
 **Writing** → [raed.dev/blog](https://raed.dev/blog)  
-**linkedin** → [linkedin.com/in/raed-chammam](https://www.linkedin.com/in/raed-chammam/)  
+**LinkedIn** → [linkedin.com/in/raed-chammam](https://www.linkedin.com/in/raed-chammam/)  
 **Elsewhere** → [raed.dev](https://raed.dev)

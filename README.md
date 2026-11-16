@@ -8,6 +8,6 @@ Writing code since 2008 - professionally since 2016.
 
 ---
 
-**Writing** → [blog.raed.dev](https://blog.raed.dev)  
-**Speaking** → [raed.dev/speaking](https://raed.dev/speaking)  
+**Writing** → [raed.dev/blog](https://raed.dev/blog)  
+**linkedin** → [linkedin.com/in/raed-chammam](https://www.linkedin.com/in/raed-chammam/)  
 **Elsewhere** → [raed.dev](https://raed.dev)
